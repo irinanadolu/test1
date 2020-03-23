@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic2">
+    <title>topic2</title>
+    <prolog>
+        <author type="contributor">irina_nadolu</author>
+        <critdates>
+            <!--irina_nadolu-->
+            <revised modified="2018/02/23"/>
+        </critdates>
+    </prolog>
+    <body>
+        <p>aaaaaaaa<xref href="topic1.dita#topic_1/sec1"/><xref href="topic3.dita#topic3"/></p>
+        <p conref="topic1.dita#topic_1/p1"></p>
+    </body>
+    <related-links>
+        <link href="topic1.dita#topic_1"/>
+        <link href="topic3.dita#topic3"/>
+    </related-links>
+</topic>
