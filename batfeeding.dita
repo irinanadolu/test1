@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="batfeeding">
+<<<<<<< HEAD
     <title>Batfeeding</title>
     <shortdesc></shortdesc>
     <taskbody>
@@ -10,6 +11,17 @@
         <steps>
             <step>
                 <cmd/>
+=======
+    <title></title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+>>>>>>> branch 'master' of https://github.com/irinanadolu/test1
             </step>
         </steps>
     </taskbody>
