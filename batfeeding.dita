@@ -10,8 +10,10 @@
         </context>
         <steps>
             <step>
-                <cmd/>
-
+                <cmd>1</cmd>
+            </step>
+            <step>
+                <cmd>2</cmd>
             </step>
         </steps>
     </taskbody>
