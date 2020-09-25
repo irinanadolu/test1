@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="batfeeding">
+
     <title>Batfeeding</title>
     <shortdesc></shortdesc>
     <taskbody>
@@ -9,7 +10,22 @@
         </context>
         <steps>
             <step>
-                <cmd/>
+                <cmd>1</cmd>
+            </step>
+            <step>
+                <cmd>2</cmd>
+            </step>
+            <step>
+                <cmd>3</cmd>
+            </step>
+            <step>
+                <cmd>4</cmd>
+            </step>
+            <step>
+                <cmd>5</cmd>
+            </step>
+            <step>
+                <cmd>6</cmd>
             </step>
         </steps>
     </taskbody>
